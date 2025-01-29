@@ -1,0 +1,1 @@
+This repository includes the assignment: JavaScript Objects in Module 10: Lesson 4 of the Software Engineering Core.
